@@ -16,5 +16,6 @@ Adaptive Screen
     }
     CGSize size = [UIScreen mainScreen].bounds.size;
     CGRect newTextViewFrame = CGRectMake(0, 0 + statusBar, size.width, size.height - statusBar - 44);
+    
 
 
