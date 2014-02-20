@@ -1,14 +1,9 @@
-Adaptive Screen
-========
-
- *          width  height
- * screen    320    
-
-
-
-
-
-
+//           width      height
+// screen    320        
+// 
+/*
+依照機體尺寸 版本 產生中間內容物
+*/
     float currSysVer = [[[UIDevice currentDevice] systemName] floatValue];
     float statusBar = 0.0;      //IOS 6
     if(currSysVer >= 7.0){
