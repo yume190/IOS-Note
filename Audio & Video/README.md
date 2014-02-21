@@ -1,9 +1,8 @@
 Audio & Video
 ========
-| Frameworks    | Learn         | Guide  | Sample Code |
-| :------------- :|:-------------| :-----| :-----|
-
-| col 2 is      | centered      |   $12 | 123 |
+| Frameworks    | Learn         | Guide  |
+| :------------- :|:-------------| :-----|
+| col 2 is      | centered      |   $12 |
 
 
 
