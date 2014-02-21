@@ -51,3 +51,28 @@ MKCoordinateRegion viewRegion = MKCoordinateRegionMakeWithDistance(location, 500
 //插annotation
 yumeMyAnnotation *t1 = [[yumeMyAnnotation alloc]initWithTitle:@"T1" andSubTitle:@"T11" andCoordinate:l1];
 [self.mapView addAnnotation:t1];
+
+
+
+
+
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
+{
+    if([segue.identifier isEqualToString:@"toTable"]){
+        yumeTableViewController *vc = [segue destinationViewController];
+        vc.array = self.array;
+    }
+}
+
+UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
+ViewControllerYellow *vc = [storyboard instantiateViewControllerWithIdentifier:@"YellowViewController"];
+[self.navigationController pushViewController:vc animated:YES];
+
+
+
+-(NSString*)getPathFile{
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *documentPath = [paths firstObject];
+    NSString *dbPath = [documentPath stringByAppendingPathComponent:@"locations.plist"];
+    return dbPath;
+}
