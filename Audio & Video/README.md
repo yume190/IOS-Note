@@ -1,9 +1,8 @@
 Audio & Video
 ========
-| Frameworks    | Learn         | Guide  |
-| :------------- :|:-------------| :-----|
-| col 2 is      | centered      |   $12 |
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
 
 
 | Frameworks    | Learn         | Guide  | Sample Code |
