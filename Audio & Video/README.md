@@ -15,7 +15,6 @@ Video
 | Frameworks     | Learn         | Guide  | Sample Code |
 | :------------: |:--------------|:-------| :-----------|
 |[Using Video](https://developer.apple.com/library/ios/documentation/AudioVideo/Conceptual/MultimediaPG/UsingVideo/UsingVideo.html#//apple_ref/doc/uid/TP40009767-CH3)|video recording<br>playback|||
-|||||
 
 
 View the MoviePlayer sample code project, which demonstrates the powerful MPMoviePlayerController class for playing local or streamed video content; and the Using UIImagePickerController to Select Pictures and Take Photos project, which demonstrates simple movie and picture capture using the UIKit framework.
