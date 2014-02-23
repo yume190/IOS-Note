@@ -11,14 +11,4 @@ Audio
 |Audio Unit framework|connect to and use audio processing plug-ins|[Audio Unit Hosting Guide for iOS](https://developer.apple.com/library/ios/documentation/MusicAudio/Conceptual/AudioUnitHostingGuide_iOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009492)||
 |OpenAL framework|provide positional audio playback in games and other applications|[OpenAL](http://openal.org/)<br>[OpenAL FAQ for iPhone OS](https://developer.apple.com/library/ios/technotes/tn2199/_index.html#//apple_ref/doc/uid/DTS40007999)|[oalTouch](https://developer.apple.com/library/ios/samplecode/oalTouch/Introduction/Intro.html#//apple_ref/doc/uid/DTS40007769)|
 
-Video
-| Frameworks     | Learn         | Guide  | Sample Code |
-| :------------: |:--------------|:-------| :-----------|
-|[Using Video](https://developer.apple.com/library/ios/documentation/AudioVideo/Conceptual/MultimediaPG/UsingVideo/UsingVideo.html#//apple_ref/doc/uid/TP40009767-CH3)|video recording<br>playback|||
-
-
-View the MoviePlayer sample code project, which demonstrates the powerful MPMoviePlayerController class for playing local or streamed video content; and the Using UIImagePickerController to Select Pictures and Take Photos project, which demonstrates simple movie and picture capture using the UIKit framework.
-
-Continue by reading Camera Programming Topics for iOS to learn how take pictures and movies, and to browse the photo library, using the UIImagePickerController class.
-
 
