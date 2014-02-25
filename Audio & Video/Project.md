@@ -1,6 +1,15 @@
 #Final Project 相關
 ------
 
+# GPUImage
+ * Github[GPUImage](https://github.com/BradLarson/GPUImage)
+ * 原作者BLOG[Introducing the GPUImage framework](http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework)
+ * [iOS 7 Blur Effects with GPUImage](http://www.raywenderlich.com/60968/ios-7-blur-effects-gpuimage)
+ * [Build a Photo App with GPUImage](http://code.tutsplus.com/tutorials/build-a-photo-app-with-gpuimage--mobile-12223)
+ * 介紹文[GPUImage](http://nshipster.com/gpuimage/)
+ * [You are browsing the Blog for GPUImage tutorial.](http://i-software-developers.com/tag/gpuimage-tutorial/)
+ * [Learning OpenGL with GPUImage](http://indieambitions.com/idevblogaday/learning-opengl-gpuimage/)
+
 # App
  * [10 Video Editing Apps](http://mashable.com/2013/06/05/video-edit-apps/#gallery/10-excellent-apps-for-editing-video/523077f15198406548007edb)
  * [Crop Video Square - Video Editor for Pinch Zoom Adjust Resize and Crop Your Movie Clip Into Square or Rectangle Size for Instagram](https://itunes.apple.com/us/app/crop-video-square-video-editor/id720611025?mt=8)
