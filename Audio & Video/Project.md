@@ -1,6 +1,10 @@
 #Final Project 相關
 ------
 
+# Github
+ * [BJImageCropper](https://github.com/barrettj/BJImageCropper)
+ * [THSpringyCollectionView](https://github.com/tristanhimmelman/THSpringyCollectionView)
+
 # GPUImage
  * Github[GPUImage](https://github.com/BradLarson/GPUImage)
  * 原作者BLOG[Introducing the GPUImage framework](http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework)
