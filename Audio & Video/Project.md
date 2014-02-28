@@ -2,8 +2,11 @@
 ------
 
 # Github
- * [BJImageCropper](https://github.com/barrettj/BJImageCropper)
- * [THSpringyCollectionView](https://github.com/tristanhimmelman/THSpringyCollectionView)
+ * Crop 剪裁畫面[BJImageCropper](https://github.com/barrettj/BJImageCropper)
+ * Springy(彈性) Collection View [THSpringyCollectionView](https://github.com/tristanhimmelman/THSpringyCollectionView)
+ * Sliderbar 測攔選扭動畫[RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar)
+ * 圓形MENU[RRCircularMenu](https://github.com/iartem/RRCircularMenu)
+ * 動畫相關[NSBKeyframeAnimation](https://github.com/NachoSoto/NSBKeyframeAnimation)
 
 # GPUImage
  * Github[GPUImage](https://github.com/BradLarson/GPUImage)
