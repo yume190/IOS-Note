@@ -7,6 +7,7 @@
  * Sliderbar 測攔選扭動畫[RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar)
  * 圓形MENU[RRCircularMenu](https://github.com/iartem/RRCircularMenu)
  * 動畫相關[NSBKeyframeAnimation](https://github.com/NachoSoto/NSBKeyframeAnimation)
+ * 對齊用Plugin[XAlign](https://github.com/qfish/XAlign)
 
 # GPUImage
  * Github[GPUImage](https://github.com/BradLarson/GPUImage)
