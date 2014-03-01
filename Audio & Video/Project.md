@@ -17,6 +17,11 @@
  * 介紹文[GPUImage](http://nshipster.com/gpuimage/)
  * [You are browsing the Blog for GPUImage tutorial.](http://i-software-developers.com/tag/gpuimage-tutorial/)
  * [Learning OpenGL with GPUImage](http://indieambitions.com/idevblogaday/learning-opengl-gpuimage/)
+ * 
+ 
+# Tutorial
+ * [Stanford 教程](http://www.stanford.edu/class/cs193p/cgi-bin/drupal/)
+ * [Ray Wender](http://www.raywenderlich.com/tutorials)
 
 # App
  * [10 Video Editing Apps](http://mashable.com/2013/06/05/video-edit-apps/#gallery/10-excellent-apps-for-editing-video/523077f15198406548007edb)
