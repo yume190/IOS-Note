@@ -45,4 +45,11 @@
  * [Cropping videos in iOS](http://stackoverflow.com/questions/6212889/cropping-videos-in-ios)
  * [Zoom, Crop and Cut videos iPhone](http://stackoverflow.com/questions/13855036/zoom-crop-and-cut-videos-iphone)
  * [How do I use AVFoundation to crop a video](http://stackoverflow.com/questions/5198245/how-do-i-use-avfoundation-to-crop-a-video)
- * []()
+
+# Other
+ * [UIImagePickerController thumbnail of video which is pick up from library](http://stackoverflow.com/questions/5719135/uiimagepickercontroller-thumbnail-of-video-which-is-pick-up-from-library)
+ * [MPMoviePlayerController Class Reference](https://developer.apple.com/library/ios/documentation/mediaplayer/reference/MPMoviePlayerController_Class/Reference/Reference.html)
+ * [Using Assets](https://developer.apple.com/library/ios/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/01_UsingAssets.html#//apple_ref/doc/uid/TP40010188-CH7-SW1)
+ * [Select video from video library in iphone](http://stackoverflow.com/questions/6845167/select-video-from-video-library-in-iphone)
+ * [Picking an Item from the Photo Library](https://developer.apple.com/library/ios/documentation/AudioVideo/Conceptual/CameraAndPhotoLib_TopicsForIOS/Articles/PickinganItemfromthePhotoLibrary.html#//apple_ref/doc/uid/TP40010408-SW1)
+ * [AAShareBubbles](https://github.com/mixdesign/AAShareBubbles)
