@@ -6,7 +6,13 @@ Pedometer
  * [CMStepCounter Class Reference](https://developer.apple.com/library/ios/documentation/CoreMotion/Reference/CMStepCounter_class/Reference/Reference.html)
  * [How to count steps using an Accelerometer?](http://stackoverflow.com/questions/8310250/how-to-count-steps-using-an-accelerometer)
  * [core-motion-activity-tracking-in-ios-7](http://www.doubleencore.com/2013/09/core-motion-activity-tracking-in-ios-7/)
+ * [UnreadCount](https://github.com/tominsam/UnreadCount-iOS)
 
+# GPS
+ * [iOS Core Location GPS Tutorial pt.1](http://www.vellios.com/2010/08/16/core-location-gps-tutorial/)
+ * github[PSLocationManager](https://github.com/perspecdev/PSLocationManager)
+ * [How to Add GPS to Your iOS App – Part 1](http://www.icodeblog.com/2012/06/04/how-to-add-gps-to-your-ios-app-part-1/)
 
 # Other 
  * [Tapku](http://iosdevelopertips.com/open-source/ios-open-source-tapku.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2BIphoneDeveloperTips%2B%2528iOS%2BDeveloper%2BTips%2529)
+ * [backgrounding](http://www.raywenderlich.com/29948/backgrounding-for-ios)
