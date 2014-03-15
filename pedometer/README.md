@@ -1,6 +1,13 @@
 Pedometer
 ========
 
+# 程式相關
+ * 計步器 （Ｍ7，非Ｍ7）
+ * GPS Tracker
+ * login (網路ＰＯＳＴ ＯＲ ＧＥＴ)
+ * 跑步資料Table View 呈現（Local SQL lite，資料上傳，ＦＢ分享）
+ * Social Map 呈現（ＰＨＰ介接）
+
 # UI 相關
 ### Guide page
  * [MYBlurIntroductionViewMYBlurIntroductionView](http://code4app.com/ios/MYBlurIntroductionView/526cba166803fa0739000000)
