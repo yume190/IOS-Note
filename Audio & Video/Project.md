@@ -17,8 +17,8 @@
  * 介紹文[GPUImage](http://nshipster.com/gpuimage/)
  * [You are browsing the Blog for GPUImage tutorial.](http://i-software-developers.com/tag/gpuimage-tutorial/)
  * [Learning OpenGL with GPUImage](http://indieambitions.com/idevblogaday/learning-opengl-gpuimage/)
- * 
- 
+ *
+
 # Tutorial
  * [Stanford 教程](http://www.stanford.edu/class/cs193p/cgi-bin/drupal/)
  * [Ray Wender](http://www.raywenderlich.com/tutorials)
@@ -53,3 +53,9 @@
  * [Select video from video library in iphone](http://stackoverflow.com/questions/6845167/select-video-from-video-library-in-iphone)
  * [Picking an Item from the Photo Library](https://developer.apple.com/library/ios/documentation/AudioVideo/Conceptual/CameraAndPhotoLib_TopicsForIOS/Articles/PickinganItemfromthePhotoLibrary.html#//apple_ref/doc/uid/TP40010408-SW1)
  * [AAShareBubbles](https://github.com/mixdesign/AAShareBubbles)
+ * [iOS学习之UINavigationController详解与使用(一)添加UIBarButtonItem](http://blog.csdn.net/totogo2010/article/details/7681879)
+ * [Git book](http://git-scm.com/book/zh-tw/)
+
+ # TDD
+  * [Teaching and Learning TDD in the Coding Dojo](http://www.slideshare.net/ecr21/intro-coding-dojo-xp2011)
+  * [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)

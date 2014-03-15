@@ -13,6 +13,11 @@ Pedometer
  * github[PSLocationManager](https://github.com/perspecdev/PSLocationManager)
  * [How to Add GPS to Your iOS App – Part 1](http://www.icodeblog.com/2012/06/04/how-to-add-gps-to-your-ios-app-part-1/)
 
-# Other 
+# Other
  * [Tapku](http://iosdevelopertips.com/open-source/ios-open-source-tapku.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A%2BIphoneDeveloperTips%2B%2528iOS%2BDeveloper%2BTips%2529)
  * [backgrounding](http://www.raywenderlich.com/29948/backgrounding-for-ios)
+
+# 計步器原理
+ * [Step Counting Using Smartphone-Based
+Accelerometer
+](http://www.enggjournals.com/ijcse/doc/IJCSE12-04-05-266.pdf)
