@@ -8,6 +8,15 @@ IOS-Note
  * 中文解說[property](http://shenfive.pixnet.net/blog/post/48054812-%EF%BC%A0property-)
  *
 
+# NSTimer
+ * [IOS中定时器NSTimer的开启与关闭](http://blog.csdn.net/enuola/article/details/8099461)
+  
+# Slider Menu
+ * [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)
+ * [iOS-Slide-Menu](https://github.com/aryaxt/iOS-Slide-Menu)
+ * [SASlideMenu for iOS](https://www.cocoacontrols.com/controls/saslidemenu)
+ * [Implementing Container Containment - Sliding Menu Controller](http://code.tutsplus.com/tutorials/implementing-container-containment-sliding-menu-controller--mobile-14562)
+
 # 教學
  * [NScookbook](http://nscookbook.com/recipes/)
 
