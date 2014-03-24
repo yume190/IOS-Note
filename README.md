@@ -29,3 +29,23 @@ IOS-Note
  * http://code4app.com/ios/XAlign/52a165bdcb7e843d688b5599
  * http://code4app.com/ios/AltitudeMeter/5296bde3cb7e8450688b510f
  * http://code4app.com/ios/UIWebview%E5%AD%97%E4%BD%93%E5%8F%98%E5%A4%A7%E5%8F%98%E5%B0%8F/5260e7936803faa93a000001
+
+# Other (cocoaPod)
+ * https://www.cocoacontrols.com/controls/mgbox
+ * https://www.cocoacontrols.com/controls/klnoteviewcontroller
+ * https://www.cocoacontrols.com/controls/galuca-project-great-icons-for-mobile-apps
+ * https://www.cocoacontrols.com/controls/bbutton
+ * https://www.cocoacontrols.com/controls/bbutton-3-0
+ * https://www.cocoacontrols.com/controls/uibutton-bootstrap-3-0-styles
+ * https://www.cocoacontrols.com/controls/sialertview
+ * https://www.cocoacontrols.com/controls/slidingtabs
+ * Json Aweson
+ * https://github.com/icanzilb/JSONModel
+ * https://www.cocoacontrols.com/controls/proper-data-models-with-jsonmodel
+ * https://www.cocoacontrols.com/controls/rnfrostedmenu
+ * https://www.cocoacontrols.com/controls/hgpagescrollview
+ * https://www.cocoacontrols.com/controls/iphone-flat-design-ui
+ * https://www.cocoacontrols.com/controls/tsitempolaroid
+ * https://www.cocoacontrols.com/controls/apextendedscrollview
+ * https://www.cocoacontrols.com/controls/frameaccessor
+ * https://www.cocoacontrols.com/controls/waterflowview
