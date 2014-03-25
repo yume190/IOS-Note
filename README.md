@@ -47,7 +47,6 @@ IOS-Note
  * https://www.cocoacontrols.com/controls/iphone-flat-design-ui
  * https://www.cocoacontrols.com/controls/tsitempolaroid
  * https://www.cocoacontrols.com/controls/apextendedscrollview
- * https://www.cocoacontrols.com/controls/frameaccessor
  * https://www.cocoacontrols.com/controls/waterflowview
  * https://www.cocoacontrols.com/controls/kyarctab
  * https://www.cocoacontrols.com/controls/msdynamicsdrawerviewcontroller
@@ -65,9 +64,11 @@ IOS-Note
  * https://www.cocoacontrols.com/controls/ghwalkthrough
  * https://www.cocoacontrols.com/controls/kofiles
  * https://www.cocoacontrols.com/controls/nsbkeyframeanimation
- * 
+ * https://www.cocoacontrols.com/controls/abcustomuinavigationcontroller
+ * https://www.cocoacontrols.com/controls/ios7-sampler
  
 # other (cocoaPod xcode)
  * https://www.cocoacontrols.com/controls/mkunits
  * https://www.cocoacontrols.com/controls/keyboardcontroller
  * https://www.cocoacontrols.com/controls/lgbluetooth
+ * https://www.cocoacontrols.com/controls/frameaccessor
