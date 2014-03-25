@@ -65,6 +65,7 @@ IOS-Note
  * https://www.cocoacontrols.com/controls/kofiles
  * https://www.cocoacontrols.com/controls/nsbkeyframeanimation
  * https://www.cocoacontrols.com/controls/abcustomuinavigationcontroller
+ * https://www.cocoacontrols.com/controls/scslidingviewcontroller
  * https://www.cocoacontrols.com/controls/ios7-sampler
  
 # other (cocoaPod xcode)
