@@ -39,7 +39,7 @@ IOS-Note
  * https://www.cocoacontrols.com/controls/uibutton-bootstrap-3-0-styles
  * https://www.cocoacontrols.com/controls/sialertview
  * https://www.cocoacontrols.com/controls/slidingtabs
- * Json Aweson
+ * Json Awesome
  * https://github.com/icanzilb/JSONModel
  * https://www.cocoacontrols.com/controls/proper-data-models-with-jsonmodel
  * https://www.cocoacontrols.com/controls/rnfrostedmenu
@@ -57,3 +57,17 @@ IOS-Note
  * https://www.cocoacontrols.com/controls/zdstickerview
  * https://www.cocoacontrols.com/controls/kotabs
  * https://www.cocoacontrols.com/controls/mhnatgeoviewcontrollertransition
+ * https://www.cocoacontrols.com/controls/cfsharecircle
+ * https://www.cocoacontrols.com/controls/aasharebubbles
+ * https://www.cocoacontrols.com/controls/lstabs
+ * https://www.cocoacontrols.com/controls/wtglyphfontset
+ * https://www.cocoacontrols.com/controls/icviewpager
+ * https://www.cocoacontrols.com/controls/ghwalkthrough
+ * https://www.cocoacontrols.com/controls/kofiles
+ * https://www.cocoacontrols.com/controls/nsbkeyframeanimation
+ * 
+ 
+# other (cocoaPod xcode)
+ * https://www.cocoacontrols.com/controls/mkunits
+ * https://www.cocoacontrols.com/controls/keyboardcontroller
+ * https://www.cocoacontrols.com/controls/lgbluetooth
