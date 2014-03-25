@@ -49,3 +49,11 @@ IOS-Note
  * https://www.cocoacontrols.com/controls/apextendedscrollview
  * https://www.cocoacontrols.com/controls/frameaccessor
  * https://www.cocoacontrols.com/controls/waterflowview
+ * https://www.cocoacontrols.com/controls/kyarctab
+ * https://www.cocoacontrols.com/controls/msdynamicsdrawerviewcontroller
+ * https://www.cocoacontrols.com/controls/cmnavbarnotificationview
+ * https://www.cocoacontrols.com/controls/eaintroview
+ * https://www.cocoacontrols.com/controls/path-intro-view
+ * https://www.cocoacontrols.com/controls/zdstickerview
+ * https://www.cocoacontrols.com/controls/kotabs
+ * https://www.cocoacontrols.com/controls/mhnatgeoviewcontrollertransition
