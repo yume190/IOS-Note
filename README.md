@@ -1,6 +1,14 @@
 IOS-Note
 ========
 
+http://appicontemplate.com/
+http://blog.grio.com/2013/01/fbloginview-facebook-authentication-made-easy-with-sdk-3-x.html
+http://d.hatena.ne.jp/shu223/20130617/1371606128
+http://blog.csdn.net/a04023401/article/details/22083367
+http://blog.csdn.net/u012198553/article/details/22097011
+http://blog.csdn.net/u012198553/article/details/18961171
+http://blog.sina.com.cn/s/blog_4ca9ceef0101isl8.html
+
 # Property 介紹
  * Apple 說明 : [Declared property](https://developer.apple.com/library/ios/Documentation/General/Conceptual/DevPedia-CocoaCore/DeclaredProperty.html)
  * Raywenderlich : [Properties Tutorial for iOS](http://www.raywenderlich.com/2712/properties-tutorial-for-ios)
